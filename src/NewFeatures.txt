@@ -1,0 +1,14 @@
+/*
+ * --------------------------------------------------------------------
+ * Project: 
+ * Version: 0.1.1
+ * File: TheNew Features.txt
+ * Created: Thursday, 26th March 2020 9:21:37 pm
+ * Modified: Thursday, 26th March 2020 9:21:37 pm
+ * Author: Shahrom Azmi Nazeer (shahrom@scs.my)
+ * 
+ * Copyright (C) 2020 - System Consultancy Services Sdn. Bhd.
+ * --------------------------------------------------------------------
+ */
+
+1. These are the new features
