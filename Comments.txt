@@ -1,15 +1,3 @@
-/*
- * --------------------------------------------------------------------
- * Project: LCAD
- * Version: 0.1.1
- * File: Comments.txt
- * Created: Thursday, 26th March 2020 11:56:40 am
- * Modified: Thursday, 26th March 2020 11:56:40 am
- * Author: Shahrom Azmi Nazeer (shahrom@scs.my)
- * 
- * Copyright (C) 2020 - System Consultancy Services Sdn. Bhd.
- * --------------------------------------------------------------------
- */
-
 Comments:
 1. One
+2. Two
